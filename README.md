@@ -14,7 +14,7 @@ A collection of utility functions for analyzing and manipulating data structures
     - Counts occurrences of specific values in nested arrays
     - Optimized for efficient processing of large datasets
 
-## Technical Details
+## Details
 
 Built using C++20 with an emphasis on performance optimization. Uses modern C++ features including vectors for dynamic array handling.
 
